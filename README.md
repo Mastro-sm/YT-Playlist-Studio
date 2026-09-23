@@ -1,3 +1,5 @@
+**This project is shared as is and is not actively maintained.**
+
 # Playlist Studio for YouTube
 
 
