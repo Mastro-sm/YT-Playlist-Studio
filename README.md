@@ -1,6 +1,5 @@
 # Playlist Studio for YouTube
 
-*Italiano: vedi [README.it.md](README.it.md).*
 
 A Chrome extension that organizes your channel's videos into playlists. An AI model (Claude, ChatGPT or Gemini) groups the videos by topic, the extension orders each playlist by retention, and writes titles and descriptions optimized for YouTube and Google search. Nothing changes on your channel until you confirm the preview.
 
